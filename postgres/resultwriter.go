@@ -12,9 +12,9 @@ import (
 	"github.com/gosom/scrapemate"
 	"github.com/jackc/pgx/v5/pgconn"
 
-	"github.com/gosom/google-maps-scraper/gmaps"
-	"github.com/gosom/google-maps-scraper/internal/jsonbsanitize"
-	"github.com/gosom/google-maps-scraper/log"
+	"github.com/coelhobugado/google-maps-scraper/gmaps"
+	"github.com/coelhobugado/google-maps-scraper/internal/jsonbsanitize"
+	"github.com/coelhobugado/google-maps-scraper/log"
 )
 
 func NewResultWriter(db *sql.DB) scrapemate.ResultWriter {

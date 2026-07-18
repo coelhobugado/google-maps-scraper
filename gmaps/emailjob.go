@@ -15,8 +15,8 @@ import (
 	"github.com/gosom/scrapemate"
 	"github.com/mcnijman/go-emailaddress"
 
-	"github.com/gosom/google-maps-scraper/exiter"
-	"github.com/gosom/google-maps-scraper/internal/safehttp"
+	"github.com/coelhobugado/google-maps-scraper/exiter"
+	"github.com/coelhobugado/google-maps-scraper/internal/safehttp"
 )
 
 type EmailExtractJobOptions func(*EmailExtractJob)

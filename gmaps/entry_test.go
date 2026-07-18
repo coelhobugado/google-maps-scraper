@@ -8,7 +8,7 @@ import (
 	"github.com/PuerkitoBio/goquery"
 	"github.com/stretchr/testify/require"
 
-	"github.com/gosom/google-maps-scraper/gmaps"
+	"github.com/coelhobugado/google-maps-scraper/gmaps"
 )
 
 func readFixture(t *testing.T, path string) []byte {

@@ -9,8 +9,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gosom/google-maps-scraper/web"
-	websqlite "github.com/gosom/google-maps-scraper/web/sqlite"
+	"github.com/coelhobugado/google-maps-scraper/web"
+	websqlite "github.com/coelhobugado/google-maps-scraper/web/sqlite"
 )
 
 func TestHTTPPerimeterAndCampaignAPI(t *testing.T) {

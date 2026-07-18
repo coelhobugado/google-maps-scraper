@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gosom/google-maps-scraper/internal/securefile"
+	"github.com/coelhobugado/google-maps-scraper/internal/securefile"
 )
 
 type Service struct {

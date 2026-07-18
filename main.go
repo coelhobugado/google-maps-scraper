@@ -13,14 +13,14 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/gosom/google-maps-scraper/internal/diagnostics"
-	"github.com/gosom/google-maps-scraper/internal/update"
-	"github.com/gosom/google-maps-scraper/internal/version"
-	"github.com/gosom/google-maps-scraper/runner"
-	"github.com/gosom/google-maps-scraper/runner/databaserunner"
-	"github.com/gosom/google-maps-scraper/runner/filerunner"
-	"github.com/gosom/google-maps-scraper/runner/installplaywright"
-	"github.com/gosom/google-maps-scraper/runner/webrunner"
+	"github.com/coelhobugado/google-maps-scraper/internal/diagnostics"
+	"github.com/coelhobugado/google-maps-scraper/internal/update"
+	"github.com/coelhobugado/google-maps-scraper/internal/version"
+	"github.com/coelhobugado/google-maps-scraper/runner"
+	"github.com/coelhobugado/google-maps-scraper/runner/databaserunner"
+	"github.com/coelhobugado/google-maps-scraper/runner/filerunner"
+	"github.com/coelhobugado/google-maps-scraper/runner/installplaywright"
+	"github.com/coelhobugado/google-maps-scraper/runner/webrunner"
 )
 
 func main() {

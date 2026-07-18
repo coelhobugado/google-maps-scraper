@@ -4,7 +4,7 @@ import (
 	"context"
 	"log/slog"
 
-	"github.com/gosom/google-maps-scraper/gmaps"
+	"github.com/coelhobugado/google-maps-scraper/gmaps"
 	"github.com/gosom/scrapemate"
 )
 

@@ -18,8 +18,8 @@ import (
 
 	_ "modernc.org/sqlite"
 
-	"github.com/gosom/google-maps-scraper/internal/securefile"
-	"github.com/gosom/google-maps-scraper/web"
+	"github.com/coelhobugado/google-maps-scraper/internal/securefile"
+	"github.com/coelhobugado/google-maps-scraper/web"
 )
 
 const jobColumns = `id,name,status,data,created_at,updated_at,idempotency_key,attempt,max_attempts,claimed_at,lease_expires_at,heartbeat_at,progress_current,progress_total,results_count,error_code,error_message,partial_results,worker_id,cancel_requested_at`

@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gosom/google-maps-scraper/log"
+	"github.com/coelhobugado/google-maps-scraper/log"
 )
 
 type SchemaDriftError struct {

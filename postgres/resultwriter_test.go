@@ -14,7 +14,7 @@ import (
 	"github.com/gosom/scrapemate"
 	"github.com/stretchr/testify/require"
 
-	"github.com/gosom/google-maps-scraper/gmaps"
+	"github.com/coelhobugado/google-maps-scraper/gmaps"
 )
 
 func TestResultWriterResetsSaveIntervalAfterTimedFlush(t *testing.T) {

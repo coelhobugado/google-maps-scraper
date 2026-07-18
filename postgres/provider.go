@@ -17,7 +17,7 @@ import (
 	"github.com/gosom/scrapemate"
 	"github.com/jackc/pgx/v5/stdlib"
 
-	"github.com/gosom/google-maps-scraper/gmaps"
+	"github.com/coelhobugado/google-maps-scraper/gmaps"
 )
 
 const (

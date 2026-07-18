@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/gosom/google-maps-scraper/gmaps"
+	"github.com/coelhobugado/google-maps-scraper/gmaps"
 )
 
 func TestPayloadEnvelopeRoundTripAndTamperDetection(t *testing.T) {

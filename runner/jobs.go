@@ -17,10 +17,10 @@ import (
 	"strings"
 
 	"github.com/google/uuid"
-	"github.com/gosom/google-maps-scraper/deduper"
-	"github.com/gosom/google-maps-scraper/exiter"
-	"github.com/gosom/google-maps-scraper/gmaps"
-	"github.com/gosom/google-maps-scraper/grid"
+	"github.com/coelhobugado/google-maps-scraper/deduper"
+	"github.com/coelhobugado/google-maps-scraper/exiter"
+	"github.com/coelhobugado/google-maps-scraper/gmaps"
+	"github.com/coelhobugado/google-maps-scraper/grid"
 	"github.com/gosom/scrapemate"
 )
 

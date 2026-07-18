@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/gosom/google-maps-scraper/runner"
+	"github.com/coelhobugado/google-maps-scraper/runner"
 )
 
 func TestSanitizeCSVAndCount(t *testing.T) {

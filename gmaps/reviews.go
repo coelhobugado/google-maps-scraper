@@ -7,7 +7,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/gosom/google-maps-scraper/log"
+	"github.com/coelhobugado/google-maps-scraper/log"
 	"net/url"
 	"regexp"
 	"strings"

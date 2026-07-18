@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gosom/google-maps-scraper/web"
+	"github.com/coelhobugado/google-maps-scraper/web"
 )
 
 func TestMigrateLegacyAndLifecycle(t *testing.T) {

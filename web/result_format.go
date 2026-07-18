@@ -10,7 +10,7 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/gosom/google-maps-scraper/internal/csvsafe"
+	"github.com/coelhobugado/google-maps-scraper/internal/csvsafe"
 )
 
 type resultRecord struct {

@@ -9,7 +9,7 @@ import (
 	"net/http"
 
 	"github.com/google/uuid"
-	"github.com/gosom/google-maps-scraper/exiter"
+	"github.com/coelhobugado/google-maps-scraper/exiter"
 	"github.com/gosom/scrapemate"
 )
 

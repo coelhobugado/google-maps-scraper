@@ -22,10 +22,10 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"github.com/gosom/google-maps-scraper/internal/metrics"
-	"github.com/gosom/google-maps-scraper/internal/redact"
-	"github.com/gosom/google-maps-scraper/internal/safehttp"
-	"github.com/gosom/google-maps-scraper/internal/version"
+	"github.com/coelhobugado/google-maps-scraper/internal/metrics"
+	"github.com/coelhobugado/google-maps-scraper/internal/redact"
+	"github.com/coelhobugado/google-maps-scraper/internal/safehttp"
+	"github.com/coelhobugado/google-maps-scraper/internal/version"
 	"golang.org/x/time/rate"
 )
 

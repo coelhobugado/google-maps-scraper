@@ -12,9 +12,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gosom/google-maps-scraper/internal/version"
-	"github.com/gosom/google-maps-scraper/tlmt"
-	"github.com/gosom/google-maps-scraper/tlmt/gonoop"
+	"github.com/coelhobugado/google-maps-scraper/internal/version"
+	"github.com/coelhobugado/google-maps-scraper/tlmt"
+	"github.com/coelhobugado/google-maps-scraper/tlmt/gonoop"
 	"github.com/gosom/scrapemate/scrapemateapp"
 )
 

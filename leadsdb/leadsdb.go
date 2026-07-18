@@ -14,10 +14,10 @@ import (
 	leadsapi "github.com/gosom/go-leadsdb"
 	"github.com/gosom/scrapemate"
 
-	"github.com/gosom/google-maps-scraper/gmaps"
-	"github.com/gosom/google-maps-scraper/internal/csvsafe"
-	"github.com/gosom/google-maps-scraper/internal/retry"
-	"github.com/gosom/google-maps-scraper/internal/securefile"
+	"github.com/coelhobugado/google-maps-scraper/gmaps"
+	"github.com/coelhobugado/google-maps-scraper/internal/csvsafe"
+	"github.com/coelhobugado/google-maps-scraper/internal/retry"
+	"github.com/coelhobugado/google-maps-scraper/internal/securefile"
 )
 
 type Config struct {
